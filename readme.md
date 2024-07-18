@@ -4,3 +4,8 @@ escribir sobre nosotros...
 
 ## Contact me
 hacer el cierre de la presentación....
+
+## Technologies
+-HTML
+-CCS
+-JS
