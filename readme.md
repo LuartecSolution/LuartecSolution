@@ -5,3 +5,7 @@ escribir sobre nosotros...
 ## Contact me
 hacer el cierre de la presentación....
 
+## Lenguajes
+- English
+- Spanish
+- Portuguese
