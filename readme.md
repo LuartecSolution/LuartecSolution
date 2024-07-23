@@ -10,3 +10,15 @@ hacer el cierre de la presentación....
 - css
 - python
 - js
+## Hobbies
+- Jugar
+- Bailar
+- Saltar
+- Correr
+
+## Skills
+- Couching
+- Leer
+- Escuchar musica
+- Programar
+
